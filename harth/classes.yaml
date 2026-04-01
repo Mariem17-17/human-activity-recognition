@@ -1,0 +1,13 @@
+CLASSES:
+  - { label: 1,  name: 'walking',                             }
+  - { label: 2,  name: 'running',                             }
+  - { label: 3,  name: 'shuffling',                           }
+  - { label: 4,  name: 'stairs (ascending)',                  }
+  - { label: 5,  name: 'stairs (descending)',                 }
+  - { label: 6,  name: 'standing',                            }
+  - { label: 7,  name: 'sitting',                             }
+  - { label: 8,  name: 'lying',                               }
+  - { label: 13, name: 'cycling (sit)',                       }
+  - { label: 14, name: 'cycling (stand)',                     }
+  - { label: 130, name: 'cycling (sit, inactive)',            }
+  - { label: 140, name: 'cycling (stand, inactive)',          }
